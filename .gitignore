@@ -1,0 +1,28 @@
+# .gitignore for a Python project using Poetry
+
+# Ignore the virtual environment
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Ignore Poetry's virtual environment
+/poetry.lock
+/pyproject.toml
+
+# Ignore IDE-specific files
+.idea/
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Notes folder
+Notes/
+
+
