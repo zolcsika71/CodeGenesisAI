@@ -16,6 +16,9 @@ build/
 # Ignore Qodana files
 /qodana.yaml
 
+# Ignore sourcery files
+/sourcery.yaml
+
 # Ignore IDE-specific files
 .idea/
 *.swp
