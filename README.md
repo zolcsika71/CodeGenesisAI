@@ -1,6 +1,6 @@
 # CodeGenesisAI
 
-![CodeGenesisAI Logo](\Images\logo.jpg)
+![CodeGenesisAI Logo](/Images/logo.jpg)
 
 ## Description
 
