@@ -1,6 +1,6 @@
 # CodeGenesisAI
 
-![CodeGenesisAI Logo](D:\Games\pythonProjects\CodeGenesisAI\Images\logo.jpg)
+![CodeGenesisAI Logo](\Images\logo.jpg)
 
 ## Description
 
